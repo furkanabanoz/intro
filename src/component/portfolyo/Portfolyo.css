@@ -1,0 +1,21 @@
+h3,h6{
+    color :orange;
+    text-align: center;
+    font-style:oblique;
+}
+table{
+    text-align: center;
+    width: 100px;
+}
+th,table, td {
+    
+    border-radius: 10px;
+}
+th, td{
+    padding: 15px;
+    text-align: left;
+  }
+th,td:hover {
+    background-color: coral;
+
+}

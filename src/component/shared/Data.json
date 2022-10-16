@@ -1,0 +1,53 @@
+[
+    {
+        "id":0,
+        "ad": "Furkan Abanoz",
+        
+        "universite": "Atatürk üniversitesi",
+        "info": [
+            "2016 yılında Atatürk üniversitesi bilgisayar mühendisliğini kazandım. ",
+            "Üniversiteyi 2.7 agno ile başarı ile bitirdim",
+            "Giresunluyum 25 yaşındayım"
+            
+        ],
+        "yas": 25,
+        "phone": "+905373945707",
+        "linkedin":"https://www.linkedin.com/in/furkanabanoz/",
+        "whatsapp": "https://api.whatsapp.com/send?phone=+905373945707&text='Merhaba Dünya'",
+        "image": "profil1.jpg"
+        
+    },
+    {
+        "id":1,
+        "ad": "Ahmet Abanoz",
+        "universite": "Boğaziçi üniversitesi",
+        "info": [
+            "2016 yılında Atatürk üniversitesi bilgisayar mühendisliğini kazandım. ",
+            "Üniversiteyi 2.7 agno ile başarı ile bitirdim",
+            "Giresunluyum 25 yaşındayım"
+            
+        ],
+        "yas": 25,
+        "phone": "+905373945707",
+        "linkedin":"https://www.linkedin.com/",
+        "whatsapp": "https://api.whatsapp.com/send?phone=+905373945707&text='Merhaba Dünya'",
+        "image": "resim88.jpg"
+        
+    },
+    {
+        "id":2,
+        "ad": "Mehmet Abanoz",
+        "universite": "Ankara üniversitesi",
+        "info": [
+            "2016 yılında Atatürk üniversitesi bilgisayar mühendisliğini kazandım. ",
+            "Üniversiteyi 2.7 agno ile başarı ile bitirdim. ",
+            "Giresunluyum 25 yaşındayım. "
+            
+        ],
+        "yas": 25,
+        "phone": "+905373945707",
+        "whatsapp": "https://api.whatsapp.com/send?phone=+905373945707&text='Merhaba Dünya'",
+        "image": "resim99.jpg"
+        
+    }
+]
