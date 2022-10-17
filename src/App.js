@@ -9,6 +9,7 @@ function App() {
       <MyNavbar></MyNavbar>
       <Routes>
         <Route path="/anasayfa" element={<Index />} />
+        <Route path="/"/>
       </Routes>
       <Foot></Foot>
 
