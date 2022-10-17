@@ -17,19 +17,19 @@ export default class MyNavbar extends Component {
                                     <a class="nav-link active" aria-current="page" href="/anasayfa">anasayfa</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/hakkimizda">hakkimizda</a>
+                                    <a class="nav-link active" href="/hakkimizda">hakkimizda</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/makaleler">makaleler</a>
+                                    <a class="nav-link active " href="/makaleler">makaleler</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/egitimler">egitimler</a>
+                                    <a class="nav-link active" href="/egitimler">egitimler</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/portfolyo">portfolyo</a>
+                                    <a class="nav-link active" href="/portfolyo">portfolyo</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/iletisim">iletisim</a>
+                                    <a class="nav-link active" href="/iletisim">iletisim</a>
                                 </li>
                             </ul>
                         </div>
