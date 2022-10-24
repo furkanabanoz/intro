@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import HakkimizdaImage from './HakkimizdaImage'
 import './Hakkimizda.css'
 import Sekiller from './Sekiller'
+import CardAdd from './CardAdd'
 
 
 export default class Hakkimizda extends Component {
@@ -30,13 +31,11 @@ export default class Hakkimizda extends Component {
                             Consectetur ex culpa architecto, illum blanditiis minima dolorem cum maxime iure cumque in quaerat, sequi enim quam accusamus nam animi eos ipsum commodi accusantium vero repellendus unde. Ad, itaque saepe!
                         </p>
                     </div>
-                    <h2>Gerçekleştirdiğimiz Projeler ve Dağılımları</h2>
+                    <h2><i>Gerçekleştirdiğimiz Projeler ve Dağılımları</i></h2>
                     <div>
                         <Sekiller></Sekiller>
+                        <CardAdd></CardAdd>
 
-                    </div>
-                    <div>
-                        <p>merhabaa</p>
                     </div>
                 </div>
             </div>

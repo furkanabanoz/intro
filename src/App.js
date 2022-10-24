@@ -4,6 +4,8 @@ import { Routes, Route, Link, NavLink, Switch, useParams } from 'react-router-do
 import Index from "./component/index/Index";
 import Foot from "./component/shared/Foot";
 import Hakkimizda from "./component/hakkimizda/Hakkimizda";
+import Portfolyo from "./component/portfolyo/Portfolyo"
+import Iletisim from "./component/iletisim/Iletisim";
 function App() {
   return (
     <div >
@@ -11,6 +13,11 @@ function App() {
       <Routes>
         <Route path="/anasayfa" element={<Index />} />
         <Route path="/hakkimizda"element={<Hakkimizda/>}/>
+        
+        <Route path="/portfolyo"element={<Portfolyo/>}/>
+        
+        <Route path="/iletisim"element={<Iletisim/>}/>
+
       </Routes>
       <Foot></Foot>
 

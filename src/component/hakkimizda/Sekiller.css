@@ -5,8 +5,15 @@
  background-color: rgb(82, 105, 82,0.6);
  float:left;
  margin-right: 10%;
+ margin: 100px;
+ text-align: center;
 }
 #p{
-    color:rgb(159, 103, 103) ;
+    margin-top: 20%;
+    color:rgb(0,0,0) ;
     text-align: center;
 }
+#kenar{
+    border-style:double ;
+}
+

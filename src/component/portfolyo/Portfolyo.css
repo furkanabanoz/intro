@@ -1,4 +1,4 @@
-h3,h6{
+#baslık,#paragraf{
     color :orange;
     text-align: center;
     font-style:oblique;
@@ -6,6 +6,7 @@ h3,h6{
 table{
     text-align: center;
     width: 100px;
+    margin: auto;
 }
 th,table, td {
     
@@ -15,7 +16,14 @@ th, td{
     padding: 15px;
     text-align: left;
   }
-th,td:hover {
-    background-color: coral;
 
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
 }
