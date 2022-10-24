@@ -3,6 +3,8 @@ import { Col, Row } from 'reactstrap'
 import profilResmi from '../../images/kopek.jpg'
 import './Iletisim.css'
 import IletisimCard from './IletisimCard'
+import IletisimFormu from './IletisimFormu'
+import Kontak from './Kontak'
 export default class Iletisim extends Component {
     render() {
         return (
@@ -35,9 +37,10 @@ export default class Iletisim extends Component {
                     <IletisimCard></IletisimCard>
                 </Row>
                 <Row>
+                    <Kontak></Kontak>
                 </Row>
                 <Row>
-                    <h1>merhaba</h1>
+                    <IletisimFormu></IletisimFormu>
                 </Row>
             </div>
         )
