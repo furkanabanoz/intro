@@ -1,10 +1,9 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class Makaleler extends Component {
-  render() {
-    return (
-      <div>
-      </div>
-    )
-  }
+const Makaleler = () => {
+  return (
+    <div>Makaleler</div>
+  )
 }
+
+export default Makaleler

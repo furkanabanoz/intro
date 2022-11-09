@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-
+import './IletisimFormu.css'
 import { Form, FormGroup, Label, Input, CardSubtitle, CardText, Button, Row, Col } from 'reactstrap'
 
 export default class IletisimFormu extends Component {
     render() {
         return (
-            <div>
+            <div id='kontakyazısı'>
                 <Form>
                     <Row>
                         <Col md={6}>

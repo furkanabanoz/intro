@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Card, CardImg, CardBody, CardTitle, CardSubtitle, CardText, Button, Row ,Col} from 'reactstrap'
 import './Card.css'
 import resim from '../../images/fotograf2.webp'
+
 export default class CardAdd extends Component {
     render() {
         return (
